@@ -1,1 +1,1 @@
-i2cÉè±¸Çı¶¯
+linux driver learning code and summarize
